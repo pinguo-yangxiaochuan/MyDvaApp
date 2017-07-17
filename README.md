@@ -1,3 +1,6 @@
 * [知乎参考](https://www.zhihu.com/question/51831855?from=profile_question_card)
 * [简书](http://www.jianshu.com/p/69f13e9123d9)
 * [Dva github](https://github.com/dvajs/dva-docs/blob/master/v1/zh-cn/getting-started.md)
+* [segmentfault网友](https://segmentfault.com/q/1010000007042661)
+* [伯乐在线网友](http://web.jobbole.com/89688/)
+* [基于dva-cli&antd的react项目实战](http://que01.github.io/2016/11/20/dva-react/)
